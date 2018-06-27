@@ -1,0 +1,3 @@
+Hello git
+the first commit is going to set up
+
