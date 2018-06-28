@@ -1,2 +1,7 @@
 This code will going to define the test rules and execution process
+<<<<<<< HEAD
 a new code has been added to the file line set up
+=======
+this file will build the toplevel maven targets.
+after post build action need to plug in  called build Pipeline plug in and delivery pipeline and deploy pipe line plug in.
+>>>>>>> a577e4be4337709f48f92b06905eb7a6cdd5c42b
